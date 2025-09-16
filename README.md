@@ -20,37 +20,233 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jcoll05&theme=dark&hide_border=true&background=0D1117&fire=FF5722&currStreakLabel=0A66C2" alt="GitHub Streak" />
 </div>
----
 
-## 💻 Core Competencies
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcoll05&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
 
-- **Languages & Frameworks:** Java, Python, JavaScript, TypeScript, React, Node.js, Express, HTML, CSS, Tailwind  
-- **Databases:** MySQL, PostgreSQL, MongoDB, Cloud Databases  
-- **Tools & Platforms:** WordPress, Elementor, Git, GitHub, VS Code
-- **Development Focus:** Full-stack applications, responsive UI, User experience
-
----
-
-## 🎓 Education
-
-- **Systems Engineering (2025)** – Universidad del Norte, Puerto Colombia  
-  - Completed 10/10 semesters  
-  - iTEP English Proficiency: 4.7 (C1 level)  
-  - Participation in International Conference on Computational Solutions to Engineering Problems
-  - Experience in both **frontend and backend development**, database management
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## Core Competencies
+<div align="center">
+
+  <h3>Languages & Frameworks</h3>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+          </a>
+          <br>JavaScript
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+          </a>
+          <br>TypeScript
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+          </a>
+          <br>Java
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+          </a>
+          <br>Python
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+          </a>
+          <br>React
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
+          </a>
+          <br>HTML5
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
+          </a>
+          <br>CSS3
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
+          </a>
+          <br>Tailwind
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+          </a>
+          <br>Node.js
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65" />
+          </a>
+          <br>Express.js
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
+          </a>
+          <br>MySQL
+        </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
+          </a>
+          <br>PostgreSQL
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+          </a>
+          <br>MongoDB
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+---
+
+<div align="center">
+
+  <h3>Tools & Utilities</h3>
+  <br>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        </a>
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+        </a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" />
+        </a>
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="65" height="65" />
+        </a>
+        <br>Vite
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=postgres" alt="pgAdmin" width="65" height="65" />
+        </a>
+        <br>pgAdmin
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Workbench" width="65" height="65" />
+        </a>
+        <br>MySQL Workbench
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=java" alt="NetBeans" width="65" height="65" />
+        </a>
+        <br>Apache NetBeans
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="65" height="65" />
+        </a>
+        <br>Power BI
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://tweakers.net/ext/i/2007501794.png" alt="SQL Server Management Studio" width="65" height="65" />
+        </a>
+        <br>SQL Server Management Studio 20
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" height="65" />
+        </a>
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Compass" width="65" height="65" />
+        </a>
+        <br>MongoDB Compass
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+
+  <h3>CMS & Builders</h3>
+  <br>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="65" height="65" />
+        </a>
+        <br>WordPress
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://github.com/user-attachments/assets/28152c3f-5039-4a20-840d-e451328c8210" alt="Elementor" width="65" height="65" />
+        </a>
+        <br>Elementor
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Education
+
+<div align="center">
+  <img src="https://img.shields.io/badge/B.E._Systems_and_Computing_Engineering-Universidad_del_Norte-0A66C2?style=flat-square&logoColor=white" alt="Education" />
+</div>
+
+---
+
+## Featured Projects
 
 <div align="center">
   <table>
     <tr>
+      <!-- Proyecto 1 -->
       <td width="50%">
         <h3 align="center">web-fe-react-prj3</h3>
         <div align="center">
-          <a href="https://github.com/Ignis-Uninorte/web-fe-react-prj3" target="_blank">
-            <img src="https://via.placeholder.com/600x300?text=web-fe-react-prj3+Preview" width="100%" alt="web-fe-react-prj3 Preview"/>
+          <a href="https://web-fe-react-prj3.onrender.com/dashboard" target="_blank">
+            <img src="https://github.com/user-attachments/assets/d7079d3c-db7f-459e-ab27-6d31a23755b7" width="100%" alt="web-fe-react-prj3 Preview"/>
           </a>
           <div>
             <br>
@@ -68,8 +264,8 @@
         <h3 align="center">3-WEB-BE-JSON-SERVER-API-IGNIS</h3>
         <div align="center">
           <a href="https://github.com/Ignis-Uninorte/3-WEB-BE-JSON-SERVER-API-IGNIS" target="_blank">
-            <img src="https://via.placeholder.com/600x300?text=API+IGNIS+Preview" width="100%" alt="API IGNIS Preview"/>
-          </a>
+            <img src="https://github.com/user-attachments/assets/e51514a4-8109-43ea-b510-9ffa76ba15e3" width="100%" alt="API IGNIS Preview"/>
+          </a>  
           <div>
             <br>
             <p><strong>JavaScript | JSON-Server | REST API</strong></p>
@@ -84,12 +280,13 @@
       </td>
     </tr>
     <tr>
-      <td width="50%">
+      <!-- Proyecto 3 centrado -->
+      <td colspan="2" width="100%">
         <h3 align="center">PRJ2-MVP1</h3>
         <div align="center">
-          <a href="https://github.com/Ignis-Uninorte/PRJ2-MVP1" target="_blank">
-            <img src="https://via.placeholder.com/600x300?text=PRJ2-MVP1+Preview" width="100%" alt="PRJ2-MVP1 Preview"/>
-          </a>
+          <a href="https://ignis-uninorte.github.io/PG-MVP1" target="_blank">
+            <img src="https://github.com/user-attachments/assets/acb6beaf-3274-4676-bdb3-1b2a1f79e41d" width="80%" alt="PRJ2-MVP1 Preview"/>
+          </a> 
           <div>
             <br>
             <p><strong>TypeScript | React</strong></p>
@@ -102,40 +299,23 @@
           </a>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">PG-MVP1</h3>
-        <div align="center">
-          <a href="https://github.com/Ignis-Uninorte/PG-MVP1" target="_blank">
-            <img src="https://via.placeholder.com/600x300?text=PG-MVP1+Preview" width="100%" alt="PG-MVP1 Preview"/>
-          </a>
-          <div>
-            <br>
-            <p><strong>HTML | CSS | Responsive Design</strong></p>
-            <p align="center">
-              Responsive prototype project with clean layouts and UI/UX best practices.
-            </p>
-          </div>
-          <a href="https://github.com/Ignis-Uninorte/PG-MVP1" target="_blank">
-            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code PG-MVP1"/>
-          </a>
-        </div>
-      </td>
     </tr>
   </table>
 </div>
 
+
 ---
 
-## 📝 Professional Summary
+## Professional Summary
 
 Systems Engineer with strong background in **web development, databases, and full-stack applications**.  
 Hands-on experience with **React, Node.js, WordPress, Java, Python, and SQL databases**.  
-Proven adaptability, teamwork, and communication skills through collaborative projects at **Ignis-Uninorte**.  
+Proven adaptability, teamwork, and communication skills.
 Bilingual (English C1) with a track record of building responsive applications and managing both frontend and backend tasks.  
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <div align="center">
   
