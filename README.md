@@ -281,7 +281,7 @@
     </tr>
     <tr>
       <!-- Proyecto 3 centrado -->
-      <td colspan="2" width="100%">
+      <td width="50%">
         <h3 align="center">PRJ2-MVP1</h3>
         <div align="center">
           <a href="https://ignis-uninorte.github.io/PG-MVP1" target="_blank">
@@ -295,6 +295,24 @@
             </p>
           </div>
           <a href="https://github.com/Ignis-Uninorte/PRJ2-MVP1" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code PRJ2-MVP1"/>
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">DrivUp</h3>
+        <div align="center">
+          <a href="https://drivup.onrender.com" target="_blank">
+            <img src="https://github.com/user-attachments/assets/b7f043c5-0ff4-416e-806e-3ff153825426" width="80%" alt="DrivUp Preview"/>
+          </a> 
+          <div>
+            <br>
+            <p><strong>TypeScript | React</strong></p>
+            <p align="center">
+              DrivUp Full-Project developed using Frontend and Backend knowledge.
+            </p>
+          </div>
+          <a href="https://github.com/somilsdiaz/DrivUp" target="_blank">
             <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code PRJ2-MVP1"/>
           </a>
         </div>
