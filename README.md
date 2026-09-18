@@ -119,6 +119,12 @@
           </a>
           <br>MongoDB
         </td>
+        <td align="center" width="96">
+          <a href="#">
+            <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
+          </a>
+          <br>Go
+        </td>
       </tr>
     </table>
   </div>
@@ -199,6 +205,12 @@
           <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB Compass" width="65" height="65" />
         </a>
         <br>MongoDB Compass
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
+        </a>
+        <br>Docker
       </td>
     </tr>
   </table>
