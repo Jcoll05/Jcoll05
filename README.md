@@ -362,5 +362,5 @@ Bilingual (English C1) with a track record of building responsive applications a
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Made+with+%F0%9F%96%A4+by+Julian+Coll;Last+updated%3A+September+2025" alt="Footer typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Made+with+%F0%9F%96%A4+by+Julian+Coll;Last+updated%3A+September+2026" alt="Footer typing" />
 </div>
