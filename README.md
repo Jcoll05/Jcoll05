@@ -255,6 +255,45 @@
     <tr>
       <!-- Proyecto 1 -->
       <td width="50%">
+        <h3 align="center">full-stack-calculator</h3>
+        <div align="center">
+          <a href="https://github.com/Jcoll05/full-stack-calculator" target="_blank">
+            <img src="https://github.com/user-attachments/assets/c38dbeaa-c53a-4dda-8f9a-503c3f813620" width="100%" alt="web-fe-react-prj3 Preview"/>
+          </a>
+          <div>
+            <br>
+            <p><strong>Go | React | TypeScript | Docker</strong></p>
+            <p align="center">
+              Full-stack calculator with a React/TypeScript frontend and Go REST API backend. Implements expression evaluation, validation, automated testing, Clean Architecture, and Docker-based deployment.
+            </p>
+          </div>
+          <a href="https://github.com/Jcoll05/full-stack-calculator" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code web-fe-react-prj3"/>
+          </a>
+        </div>
+      </td>
+       <td width="50%">
+        <h3 align="center">DrivUp</h3>
+        <div align="center">
+          <a href="https://drivup.onrender.com" target="_blank">
+            <img src="https://github.com/user-attachments/assets/b7f043c5-0ff4-416e-806e-3ff153825426" width="80%" alt="DrivUp Preview"/>
+          </a> 
+          <div>
+            <br>
+            <p><strong>TypeScript | React</strong></p>
+            <p align="center">
+              DrivUp Full-Project developed using Frontend and Backend knowledge.
+            </p>
+          </div>
+          <a href="https://github.com/somilsdiaz/DrivUp" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code PRJ2-MVP1"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <!-- Proyecto 3 centrado -->
+      <td width="50%">
         <h3 align="center">web-fe-react-prj3</h3>
         <div align="center">
           <a href="https://web-fe-react-prj3.onrender.com/dashboard" target="_blank">
@@ -273,27 +312,6 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">3-WEB-BE-JSON-SERVER-API-IGNIS</h3>
-        <div align="center">
-          <a href="https://github.com/Ignis-Uninorte/3-WEB-BE-JSON-SERVER-API-IGNIS" target="_blank">
-            <img src="https://github.com/user-attachments/assets/e51514a4-8109-43ea-b510-9ffa76ba15e3" width="100%" alt="API IGNIS Preview"/>
-          </a>  
-          <div>
-            <br>
-            <p><strong>JavaScript | JSON-Server | REST API</strong></p>
-            <p align="center">
-              RESTful API mock backend for testing and validating frontend features in Ignis-Uninorte projects.
-            </p>
-          </div>
-          <a href="https://github.com/Ignis-Uninorte/3-WEB-BE-JSON-SERVER-API-IGNIS" target="_blank">
-            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code API IGNIS"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <!-- Proyecto 3 centrado -->
-      <td width="50%">
         <h3 align="center">PRJ2-MVP1</h3>
         <div align="center">
           <a href="https://ignis-uninorte.github.io/PG-MVP1" target="_blank">
@@ -307,24 +325,6 @@
             </p>
           </div>
           <a href="https://github.com/Ignis-Uninorte/PRJ2-MVP1" target="_blank">
-            <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code PRJ2-MVP1"/>
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">DrivUp</h3>
-        <div align="center">
-          <a href="https://drivup.onrender.com" target="_blank">
-            <img src="https://github.com/user-attachments/assets/b7f043c5-0ff4-416e-806e-3ff153825426" width="80%" alt="DrivUp Preview"/>
-          </a> 
-          <div>
-            <br>
-            <p><strong>TypeScript | React</strong></p>
-            <p align="center">
-              DrivUp Full-Project developed using Frontend and Backend knowledge.
-            </p>
-          </div>
-          <a href="https://github.com/somilsdiaz/DrivUp" target="_blank">
             <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code PRJ2-MVP1"/>
           </a>
         </div>
